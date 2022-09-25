@@ -2,7 +2,7 @@
   "name": "my-blog",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://changmushu.github.io/MY-BLOG",
+  "homepage": "https://changmushu.top",
   "dependencies": {
     "@monterosa/react-native-parallax-scroll": "^1.8.0",
     "@react-spring/parallax": "^9.5.4",

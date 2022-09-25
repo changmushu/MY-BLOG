@@ -16,7 +16,7 @@ import LoginTest from "./pages/Login/LoginTest";
 function App() {
   const user = true;
   return (
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Routes>
         <Route path="/" element={<Home/>}/>
           <Route path="/Register" element={user ? (<Register/>):(<LoginTest/>)}>

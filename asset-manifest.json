@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/changmushu.github.io/MY-BLOG/static/css/main.047d4090.css",
-    "main.js": "/changmushu.github.io/MY-BLOG/static/js/main.456479c3.js",
+    "main.js": "/changmushu.github.io/MY-BLOG/static/js/main.2ce6526a.js",
     "static/media/000061550031.jpg": "/changmushu.github.io/MY-BLOG/static/media/000061550031.943ead8998fc7880a56b.jpg",
     "static/media/000069.jpg": "/changmushu.github.io/MY-BLOG/static/media/000069.5e9766e2afe1080665b8.jpg",
     "static/media/DSC1526.jpg": "/changmushu.github.io/MY-BLOG/static/media/DSC1526.3be8f154f743c9fcfb96.jpg",
@@ -51,10 +51,10 @@
     "static/media/DSC_4807.jpg": "/changmushu.github.io/MY-BLOG/static/media/DSC_4807.40c82932a7e5991089ba.jpg",
     "index.html": "/changmushu.github.io/MY-BLOG/index.html",
     "main.047d4090.css.map": "/changmushu.github.io/MY-BLOG/static/css/main.047d4090.css.map",
-    "main.456479c3.js.map": "/changmushu.github.io/MY-BLOG/static/js/main.456479c3.js.map"
+    "main.2ce6526a.js.map": "/changmushu.github.io/MY-BLOG/static/js/main.2ce6526a.js.map"
   },
   "entrypoints": [
     "static/css/main.047d4090.css",
-    "static/js/main.456479c3.js"
+    "static/js/main.2ce6526a.js"
   ]
 }

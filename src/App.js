@@ -11,12 +11,13 @@ import Setting from "./pages/setting/Setting";
 import Register from "./pages/Register/Register";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import LoginTest from "./pages/Login/LoginTest";
+import Contact from "./pages/contact/Contact";
 
 
 function App() {
   const user = true;
   return (
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Routes>
         <Route path="/" element={<Home/>}/>
           <Route path="/Register" element={user ? (<Register/>):(<LoginTest/>)}>
@@ -38,6 +39,8 @@ function App() {
           <Route path="/single3" element={<Single3/>}>
           </Route>
           <Route path="/about" element={<About/>}>
+          </Route>
+          <Route path="/contact" element={<Contact/>}>
           </Route>
         </Routes>
       </BrowserRouter>

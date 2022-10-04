@@ -70,6 +70,7 @@ export default function SinglePost() {
                 <h2 className="singlePostTitlelineunder">——</h2>
 
             </div>
+            
         </div>
 
     )

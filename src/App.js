@@ -4,6 +4,8 @@ import Single from "./pages/single/Single"
 import Single1 from "./pages/single/Single1";
 import Single2 from "./pages/single/Single2";
 import Single3 from "./pages/single/Single3";
+import Single4 from "./pages/single/Single4";
+import Single5 from "./pages/single/Single5";
 import About from "./pages/About/About";
 import Write from "./pages/write/Write";
 import Setting from "./pages/setting/Setting";
@@ -37,6 +39,10 @@ function App() {
           <Route path="/single2" element={<Single2/>}>
           </Route>
           <Route path="/single3" element={<Single3/>}>
+          </Route>
+          <Route path="/single4" element={<Single4/>}>
+          </Route>
+          <Route path="/single5" element={<Single5/>}>
           </Route>
           <Route path="/about" element={<About/>}>
           </Route>

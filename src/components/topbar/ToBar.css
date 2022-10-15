@@ -56,6 +56,8 @@
     align-items: center;
     justify-content: center;
     z-index: 999;
+    text-decoration: none;
+    list-style: none;
 }
 
 .topCenter{
@@ -68,7 +70,28 @@
     margin-right: 10px;
     cursor: pointer;
     z-index: 999;
+    text-decoration: none;
+    color: white;
 }
+
+.topIcon1{
+    font-size: 20px;
+    margin-right: 10px;
+    cursor: pointer;
+    z-index: 999;
+    text-decoration: none;
+    color: black;
+}
+
+.topIcon1{
+    font-size: 20px;
+    margin-right: 10px;
+    cursor: pointer;
+    z-index: 999;
+    text-decoration: none;
+    color: black;
+}
+
 
 .topImg{
     width: 140px;

@@ -56,10 +56,8 @@ export default function ToBar()  {
             </ul>
         </div>
         <div className="topRight">
-            <i className="topIcon fa-brands fa-square-facebook"></i>
-            <i className="topIcon fa-brands fa-square-twitter"></i>
-            <i className="topIcon fa-brands fa-pinterest"></i>
-            <i className="topIcon fa-brands fa-instagram"></i>
+        <a className="topIcon1 fa-brands fa-github" href="https://github.com/changmushu/MY-BLOG"></a>
+          <a className="topIcon1 fa-brands fa-bilibili" href="https://space.bilibili.com/22973070"></a>
         </div>
 
     </div>

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.eb6f2e85.css",
-    "main.js": "/static/js/main.c81c888c.js",
+    "main.js": "/static/js/main.8b1b90b5.js",
     "static/media/000061550031.jpg": "/static/media/000061550031.943ead8998fc7880a56b.jpg",
     "static/media/000069.jpg": "/static/media/000069.5e9766e2afe1080665b8.jpg",
     "static/media/DSC1526.jpg": "/static/media/DSC1526.3be8f154f743c9fcfb96.jpg",
@@ -23,6 +23,7 @@
     "static/media/DSC1527.jpg": "/static/media/DSC1527.02af143b66d96abd4ce1.jpg",
     "static/media/微信图片_20221008214718.jpg": "/static/media/微信图片_20221008214718.1172662dccecc41f23c4.jpg",
     "static/media/DSC1528.jpg": "/static/media/DSC1528.dfcd9bf76a59ba4eaf25.jpg",
+    "static/media/DSC157.jpg": "/static/media/DSC157.7f834ec5708feeead659.jpg",
     "static/media/000039.jpg": "/static/media/000039.61d7f25575669cfd517b.jpg",
     "static/media/000068.jpg": "/static/media/000068.ce787d4f814befebb072.jpg",
     "static/media/000061550003.jpg": "/static/media/000061550003.b009477b9a93440d4beb.jpg",
@@ -53,10 +54,10 @@
     "static/media/DSC_4807.jpg": "/static/media/DSC_4807.40c82932a7e5991089ba.jpg",
     "index.html": "/index.html",
     "main.eb6f2e85.css.map": "/static/css/main.eb6f2e85.css.map",
-    "main.c81c888c.js.map": "/static/js/main.c81c888c.js.map"
+    "main.8b1b90b5.js.map": "/static/js/main.8b1b90b5.js.map"
   },
   "entrypoints": [
     "static/css/main.eb6f2e85.css",
-    "static/js/main.c81c888c.js"
+    "static/js/main.8b1b90b5.js"
   ]
 }

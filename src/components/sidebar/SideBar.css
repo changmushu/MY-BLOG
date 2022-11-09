@@ -9,6 +9,31 @@
     flex-direction: column;
     align-items: center;
   }
+
+  .sidebarTitle::selection{
+    background: #3f7694;
+    color: black;
+  }
+
+  .img::selection{
+    background: #3f7694;
+    color: black;
+  }
+
+  .sidebarText::selection{
+    background: #3f7694;
+    color: black;
+  }
+
+  .sidebarTitle::selection{
+    background: #3f7694;
+    color: black;
+  }
+
+  .br::selection{
+    background: #3f7694;
+    color: black;
+  }
   
   .sidebarItem {
     display: flex;

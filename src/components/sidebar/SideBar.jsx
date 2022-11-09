@@ -5,8 +5,8 @@ export default function SideBar() {
         <div className="sidebar">
             <div className="sidebarItem">
                 <span className="sidebarTitle">關於我</span>
-                <img src={require("../../assets/微信图片_20221008214718.jpg")} alt="" />
-                <p className="sidebarText">像是八月份的雨季 <br />房間裏的空調時好時壞 <br />脫光了衣服躺在涼席上 <br />輾轉反側 <br />半夢半醒不知不覺<br /> 身體已經嵌入了半個荒涼的夜夢裏</p>
+                <img className="img" src={require("../../assets/微信图片_20221008214718.jpg")} alt="" />
+                <p className="sidebarText">像是八月份的雨季 <br className="br" />房間裏的空調時好時壞 <br className="br" />脫光了衣服躺在涼席上 <br className="br" />輾轉反側 <br className="br" />半夢半醒不知不覺<br className="br" /> 身體已經嵌入了半個荒涼的夜夢裏</p>
 
             </div>
             {/* <div className="sidebarItem">

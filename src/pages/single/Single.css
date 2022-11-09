@@ -2,3 +2,8 @@
     display: flex;
     
 }
+
+.headerImg::selection{
+    background: #3f7694;
+    color: black;
+  }

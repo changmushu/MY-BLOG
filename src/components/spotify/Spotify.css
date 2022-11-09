@@ -4,3 +4,8 @@
     margin: 20px;
     justify-content:center;
 }
+
+.sp::selection{
+    background: #3f7694;
+    color: black;
+  }

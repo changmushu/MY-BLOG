@@ -3,8 +3,23 @@
   margin: 0px 25px 40px 110px;
   display: flex;
   flex-direction: column;
-  
 }
+
+.postCat::selection{
+  background: #3f7694;
+  color: black;
+}
+
+.postDate::selection{
+  background: #3f7694;
+  color: black;
+}
+
+.postImg::selection{
+  background: #3f7694;
+  color: black;
+}
+
 
 .postImg {
   width: 405px;

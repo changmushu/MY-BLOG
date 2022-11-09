@@ -1,5 +1,3 @@
-
-
 .top{
     width: 100%;
     height: 50px;
@@ -10,6 +8,16 @@
     font-family: 'Noto Sans TC', sans-serif;
     color: rgb(255, 255, 255);
     z-index: 999;
+}
+
+.link::selection{
+    background: #3f7694;
+    color: black;
+}
+
+.topImg::selection{
+    background: #3f7694;
+    color: black;
 }
 
 .scrolled {

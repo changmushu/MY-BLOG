@@ -17,3 +17,7 @@ git remote add origin git@github.com:changmushu/MY-BLOG.git
 git pull --rebase origin main
 
 git push -u origin main
+
+npm run build
+
+npm run deploy

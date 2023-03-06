@@ -53,6 +53,7 @@ export default function ToBar()  {
                 </li>
                 <li className="topListItem"><NavLink className="link" to="/about">攝影集</NavLink></li>
                 <li className="topListItem"><NavLink className="link" to="/contact">文章</NavLink></li>
+                <li className="topListItem"><a className="link" href="https://chatgpt-demo-bay-omega.vercel.app/">ChatGPT</a></li>
             </ul>
         </div>
         <div className="topRight">

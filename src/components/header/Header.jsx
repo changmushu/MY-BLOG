@@ -1,6 +1,6 @@
 import ToBar from "../topbar/ToBar"
 import "./Header.css"
-
+import DynamicFont from 'react-dynamic-font';
 
 
 
@@ -30,7 +30,8 @@ export default function Header() {
       <div className='header' >
         <div className="headerTitles">
           <span className="headerTitleLg">
-          Asako I & II
+          <DynamicFont smooth content={"Asako"} />
+          <DynamicFont smooth content={"I & II"} />
           </span>
         </div>
       </div>

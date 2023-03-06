@@ -39,6 +39,7 @@
     color: #1d4770;
     z-index: 4;
     font-family: 'Inconsolata', monospace;
+    overflow: hidden;
 }
 
 .headerImg {
